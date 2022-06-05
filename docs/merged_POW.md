@@ -12,6 +12,19 @@ pandoc merged_POW.md -f markdown -o merged_POW.pdf --number-sections
 -->
 
 \newpage
+# Non-Technical Summary
+
+In lay terms, briefly describe the following: (1) the issue and why it is important, (2) your goal and objectives, (3) the target audiences and how they will benefit, and (4) how your activities lead to the outcomes described in the goal statement or objectives. (8000 character max)
+
+## The issue and why it is important
+
+## Goal and objectives
+
+## Target audiences and how they will benefit
+
+## How activities lead to outcomes
+
+\newpage
 
 # Brief Summary about Planned Program
 
