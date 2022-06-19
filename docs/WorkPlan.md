@@ -2,53 +2,113 @@
 title: Plant Protection and Conservation for Guam and Micronesia
 toc: structure
 author: Aubrey Moore
-date: \today
+date: Last revised \today
+
+documentclass: scrartcl
+# geometry: margin=2cm
+lang: en
+
 pagesize: letter
 fontsize: 12pt
+graphics: yes
+colorlinks: true
+numbersections: true
 ---
 
 <!--
-pandoc merged_POW.md -f markdown -o merged_POW.pdf --number-sections
+pandoc WorkPlan.md -f markdown -o WorkPlan.pdf
+mupdf WorkPlan.mupdf
 -->
 
 <!--
 Alternate title: Sustaining, Protecting, and Managing Agroecosystems and Natural Ecosystems of Guam and Micronesia
 -->
 
-# Non-Technical Summary
+\newpage
 
 *In lay terms, briefly describe the following: (1) the issue and why it is important, (2) your goal and objectives, (3) the target audiences and how they will benefit, and (4) how your activities lead to the outcomes described in the goal statement or objectives. (8000 character max)*
 
-\newpage
-## The issues and why they are important
-
 This program includes basic research, applied research and extension activities aimed at sustaining, protecting, and managing the environment and natural resources of Guam and the rest of Micronesia, which includes U.S. affiliated islands within the Republic of Palau, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia and the Republic of the Marshall Islands. Agroecosystems and natural ecosystems on these islands are subject to severe biotic and abiotic stresses caused by biological invasions, human induced habitat destruction, typhoons, drought and fire.
+
+The work plan for this program consists of four inter-related and overlapping issues.
+
+# Issue: Invasive species are killing Guam's forests
 
 An important component of ecosystems management is mitigation of alien invasive species which threaten Guam and Micronesia's native plants and animals in addition to economically important agricultural and ornamental species.
 
-The invasion of new pests and pathogens, including insects, and disease causing organisms, can devastate the expensive niche crops that Guam and Micronesia's farmers produce thereby destroying their limited economic opportunities. All programs must address issues that are relevant to the needs of the region, serve interest of scientific community and are linked to the needs of our stakeholders. Indeed, numerous research projects address environmental issues, integrated plant protection, biocontrol as well as serve ethnic needs of local population. We will continue to work on biological control in pest management systems, plant genetic resources conservation, production of local seeds and tissue-cultured plants, identifying local species for landscape purposes, integrated pest management, genetic structure of the indigenous plants, biological control of pests of endemic plants, trapping systems for monitoring and control of invasive insects, research on diseases of traditional Pacific island plants, their biological properties, and safety of producing tropical and subtropical foods, plants, or herbs.
+Physical isolation of Guam and other Micronesian islands and their humid tropical environment have created unique ecosystems, extremely susceptible to invasion by undesirable plants, insects, pathogens and other invasive species. Invasive species, especially insects and weeds are considered the greatest threat to Guam and Micronesia's natural environment. On Guam, native forests are particularly impacted by the four invasive species listed below. In addition to these, Guam's forests are being degraded by many newly introduced insects, plant pathogens, and weeds which are arriving frequently.
 
-Physical isolation of Guam and other Micronesian islands and their humid tropical environment have created unique ecosystems, extremely susceptible to invasion by undesirable plants, insects, pathogens and other invasive species. Invasive species, especially insects and weeds are considered the greatest threat to Guam and Micronesia's natural environment. Invasive species sometimes result in the loss of native species, the destruction of native forests and the degradation of the quality of life in general. Despite federal and state quarantine regulations, many species are accidentally imported. Some are harmless but some cause a significant impact on Guam and Micronesia's economy. The population of our most abundant forest plant, Micronesia's endemic *Cycas micronesica*, has been reduced by 90% as a result of a scale insect infestation. This plant which used to be the most abundant plant in the forest is now on the national endangered species list. The second most abundant plant on Guam is the coconut palm which is under attach by the coconut rhinoceros beetle; we will lose more than 50% of these trees if this insect is not eradicated. As a result of invasive species resulting on Guam, we now have as many as 15 plant species and 8 animal species were placed on the endangered or threatened list in 2015. Little fire ant (LFA) continues to spread throughout the island of Guam primarily through human intervention. LFA has the potential to disrupt ecosystems and human lifestyles throughout the region.
+* **brown treesnake (BTS)**, detected in the 1940s, has extirpated Guam's forest birds, removing ecosystem services they provided including seed dispersal, insectivory and pollination.
 
-**Issue 1:** Guam's forests are dying from attacks by four key invasive species.
+* **cycad Aulacaspis scale insect (CAS)**, detected in 2003, has killed more than 90% of Guam's endemic cycad plants. This plant went from being the most abundant tree in Guam's forests in 2002 to being placed on the US endangered species list in 2015. Annual surveys of 12 permanent forest plots indicate that only 4% of the original *C. micronesica* survive and no reproduction is taking place.
 
-* **brown treesnake**, detected in the 1940s, has extirpated Guam's forest birds, removing ecosystem services they provided including seed dispersal, insectivory and pollination.
+* **coconut rhinoceros beetle (CRB)**, detected in 2007, is killing coconut trees and other palms in Guam's forests. In 2002, palms were the second most abundant trees in Guam's forests.
 
-* **cycad Aulacaspis scale insect**, detected in 2003, has killed more than 90% of Guam's endemic cycad plants. This plant went from being the most abundant tree in Guam's forests in 2002 to being placed on the US endangered species list in 2015. Cycad populations continue to decline.
+* **little fire ant (LFA)**, detected in 2011, continues to spread on Guam. This stinging ant is radically changing biodiversity in forest, urban, and agricultural ecosystems.
 
-* **coconut rhinoceros beetle**, detected in 2007, is killing coconut trees and other palms in Guam's forests. In 2002, palms were the second most abundant trees in Guam's forests.
 
-* **little fire ant**, detected in 2011, continues to spread on Guam. This stinging ant is radically changing biodiversity in forest, urban, and agricultural ecosystems.
+## Goals and Objectives
 
-In addition to the four important invasive species listed above, Guam's forests are being degraded by many newly introduced insects, plant pathogens, and weeds.
+* Setup and maintain island wide surveillance systems to monitor forest pests and the health of plants populations under attack
+* Develop and implement effective integrated pest management systems for BTS, CAS, CRB and LFA
 
-**Issue 2:** Biosecurity within Guam and Micronesia needs improvement.
+## Target audiences and how they will benefit
 
-**Issue 3:** Guam's threatened and endangered species require protection.
+Target audiences, stakeholders and collaborators include the people of Guam, GovGuam agencies and Federal agencies. UOG entities working on this issue include WPTRC, CES, and CIS.
 
-**Issue 4:** Guam's soil erosion problem needs a solution.
+## Activities and expected outcomes
+
+### BTS
+
+UOG has partnered with USDA-APHIS Wildlife Services on projects aimed at BTS population monitoring and suppression of BTS on Guam.
+
+### CAS
+
+Development of methods for monitoring and controlling CAS are currently being done within projects funded to protect *Cycas micronesica* on DOD property. To date, reproduction is occurring only when seeds and seedlings are protected by insecticide application. Restoration of *C. micronesica* on an island-wide basis will require discovery and release of an effective self-sustaining biological control agent for CAS will halt seedling mortality.
+
+### CRB
+
+An island-wide surveillance system which monitors CRB damage to coconut palms has been developed and will be maintained.
+
+Development of biological control for Guam biotype of CRB is funded by several grants. Focus is on finding an isolate of *Oryctes rhinoceros* nudivirus capable of halting mature palm mortality.
+
+### LFA
+
+Development of methods for monitoring and controlling LFA are currently being done in collaboration with Guam Department of Agriculture Biosecurity Division.
 
 \newpage
+
+# Issue: Biosecurity and pest identification services within Guam and Micronesia need improvement.
+
+## Goals and Objectives
+
+## Target audiences and how they will benefit
+
+## Activities and expected outcomes
+
+\newpage
+
+# Issue: Guam's threatened and endangered species require protection.
+
+## Goals and Objectives
+
+## Target audiences and how they will benefit
+
+## Activities and expected outcomes
+
+\newpage
+
+# Issue: Guam's soil erosion problem needs a solution.
+
+## Goals and Objectives
+
+## Target audiences and how they will benefit
+
+## Activities and expected outcomes
+
+\newpage
+
+# CRAP
 
 Research and Extension activities will be aimed at the identification of and management of invasive species, and when this is not possible, mitigation of damage using biological control and integrated pest management. We will also work continue to educate policy makers and the general public on the threat that invasive species pose to their island environment and lifestyles.
 
