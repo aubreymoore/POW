@@ -91,8 +91,8 @@ Work on this issue will be done in collaboration with USDA-APHIS-PPQ, Guam Custo
 
 ## Activities and expected outcomes
 
-* Continuation of annual training workshops for PPQ officers from throughout Micronesia sponsored by the University of Guam, USDA-APHIS and the Secretariat of the Pacific Community will continue to raise the regional capacity for early detection and rapid response to invasive species.
+Continuation of annual training workshops for PPQ officers from throughout Micronesia sponsored by the University of Guam, USDA-APHIS and the Secretariat of the Pacific Community will continue to raise the regional capacity for early detection and rapid response to invasive species.
 
-* Continued development of the UOG insect collection and online resources will result in a valuable resource for identification of insect species within Micronesia.
+Continued development of the UOG insect collection and online resources will result in a valuable resource for identification of insect species within Micronesia.
 
-* Workshops, fact sheets and publications on invasive species problems in Micronesia will keep stakeholders informed of emerging risks and improved control recommendations.
+Workshops, fact sheets and publications on invasive species problems in Micronesia will keep stakeholders informed of emerging risks and improved control recommendations.
