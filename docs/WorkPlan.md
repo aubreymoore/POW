@@ -1,5 +1,5 @@
 ---
-title: Plant Protection and Conservation for Guam and Micronesia
+title: Plant Protection and Biosecurity for Guam and Micronesia
 toc: structure
 author: Aubrey Moore
 date: Last revised \today
@@ -80,11 +80,26 @@ Development of methods for monitoring and controlling LFA are currently being do
 
 # Issue: Biosecurity and pest identification services within Guam and Micronesia need improvement.
 
+Tropical islands such as those in Micronesia are extremely susceptible to economic and ecological damage from invasive species.  In addition to rapid deterioration of Guam's forests, more than 95% of crop pests listed for Micronesia are invasive species. Despite the efforts of local and federal biosecurity services, several new invasive species arrive and establish every year.
+
 ## Goals and Objectives
+
+* Increase capacity for early detection and rapid response.
+* Develop and maintain a biodiversity inventory listing all terrestrial organisms on Guam classified as endemic, native, introduced and invasive.
+* Develop methods to overcome the taxonomic impediment which impedes early detection and eradication or control of invasive species.
+* Provide plant pest diagnostic services providing identification and control recommendations for a wide variety of clientele.
 
 ## Target audiences and how they will benefit
 
+Target audiences, stakeholders and collaborators include the people of Guam, GovGuam agencies and Federal agencies. UOG entities working on this issue include WPTRC, CES, and CIS.
+
 ## Activities and expected outcomes
+
+* Continuation of annual training workshops for PPQ officers from throughout Micronesia sponsored by UOG, USDA-APHIS and SPC will continue to raise the regional capacity for early detection and rapid response to invasive species.
+
+* Continued development of the UOG insect collection and online resources will result in a valuable resource for identification insect species within Micronesia
+
+* Workshops, fact sheets and publications on invasive species problems in Micronesia will keep stakeholders informed of improved control recommendations
 
 \newpage
 
@@ -106,6 +121,7 @@ Development of methods for monitoring and controlling LFA are currently being do
 
 ## Activities and expected outcomes
 
+<!--
 \newpage
 
 # CRAP
@@ -186,3 +202,4 @@ Research and Extension activities will be aimed at the identification of and man
 Since all of Guam's new pests are the result of accidental introductions of invasive species, Guam will continue to get new pests as long as people travel to Guam and plants are imported. UOG-CES must cooperative with other agencies with similar goals. The Guam Invasive Species Advisory Committee (GISAC) was formed to provide technical expertise in management of organisms that are already here and prevention of further introductions. The Committee has established a website at http://gisac.guam.net as a repository for information on Guam's invasive species. The University of Guam is also part of the Western Plant Diagnostic Network (WPDN) (http://www.wpdn.org/ ) which is a part of a larger network: National Plant Diagnostic Network (NPDN). The NPDN enhances United States agricultural security through a functional nationwide network of public agricultural institutions with a cohesive, distributed system to quickly detect deliberately introduced, high consequence, biological pests and pathogens into our agricultural and natural ecosystems by providing means for quick identifications and establishing protocols for immediate reporting to appropriate responders and decision makers.
 
 Whenever people cultivate plants they disturb the environment: soil, plant and animal species. Through proper management practices many pests, weeds, and plant disease problems can be eliminated or reduced. If proper management practices are not followed soil will be washed away, plant pathogens will multiply, and insects will become resistant to insecticides. The Cooperative Extension Service through education awareness programs needs to get the farmers and homeowners to adopt low environmental impact plant cultivation practices.
+-->
